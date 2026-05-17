@@ -8,4 +8,3 @@ int main() //This is the entry point or function under which the program will ru
        return 0;
 
 }
-0
